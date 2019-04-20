@@ -1,0 +1,7 @@
+En este coche,si se estropea el mando a distancia,se puede usar otro con un cable para desbloquear el antirrobo,pero este mando solo 
+se puede utilizar 200 o 300 veces aprox,despues deja de funcionar y los talleres suelen pedir 600€ o mas por la reparación.
+Aqui explico una solución barata que permite seguir usando el coche solo con la llave.
+Para puentear el inmovilizador (ver pagina 10 del pdf),hay que conectar
+el pin 5 con el 6 (inyectores y bomba de combustible),el 11(antirrobo) con el 12(gnd) y poner un pulsador entre el 
+10(motor de arranque) y el 12(gnd).El coche se enciende como siempre,pero ademas hay que accionar el pulsador 
+para activar el motor de arranque.
