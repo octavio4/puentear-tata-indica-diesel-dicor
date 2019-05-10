@@ -5,3 +5,4 @@ Para puentear el inmovilizador (ver pagina 10 del pdf),hay que conectar
 el pin 5 con el 6 (inyectores y bomba de combustible),el 11(antirrobo) con el 12(gnd) y poner un pulsador entre el 
 10(motor de arranque) y el 12(gnd).El coche se enciende como siempre,pero ademas hay que accionar el pulsador 
 para activar el motor de arranque.
+A veces las puertas se cierran automaticamente,se puede quitar el relé izquierdo (junto al inmobilizador) para evitar que se cierre la puerta del conductor. 
